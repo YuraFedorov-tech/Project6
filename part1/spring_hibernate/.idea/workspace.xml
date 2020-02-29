@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="88812e5b-9964-466f-bfdd-47df47b70fa8" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db_example@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db_example@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db_example@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="db_example: database" type="162271b6:PgImplModel$Database" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db_example@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="db_example: database" type="162271b6:PgImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db_example@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="db_example: database" type="162271b6:PgImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="public: schema" type="983ebcf7:PgImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db_example@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="db_example: database" type="162271b6:PgImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="public: schema" type="983ebcf7:PgImplModel$Schema" />
+        <item name="tables" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YGTGjHLdunZ73GG240G0TOnNzH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="postgresql" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="C:/android-sdk" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Святослав\Documents\codeWork\SpringTasks\spring_hibernate\src\main\resources" />
+      <recent name="C:\Users\Святослав\Documents\codeWork\SpringTasks\spring_hibernate\src\main\java\hiber" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration name="MainApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hiber.MainApp" />
+      <module name="spring_hibernate" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hiber.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:db_example@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:db_example@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@1a88d25c" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:db_example@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@2dce9834" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="88812e5b-9964-466f-bfdd-47df47b70fa8" name="Default" comment="" />
+      <created>1573734376767</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573734376767</updated>
+      <workItem from="1573734384514" duration="1880000" />
+      <workItem from="1573805490909" duration="2519000" />
+      <workItem from="1574444697457" duration="1213000" />
+      <workItem from="1574686569885" duration="150000" />
+      <workItem from="1582567845292" duration="3370000" />
+      <workItem from="1582575631798" duration="218000" />
+      <workItem from="1582656902120" duration="5765000" />
+      <workItem from="1582664123692" duration="825000" />
+      <workItem from="1582742355766" duration="8063000" />
+      <workItem from="1582834136301" duration="4665000" />
+      <workItem from="1582960387006" duration="5301000" />
+      <workItem from="1582981513636" duration="2748000" />
+      <workItem from="1582985108911" duration="1277000" />
+      <workItem from="1582987253421" duration="3037000" />
+      <workItem from="1582992567132" duration="272000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="312" y="92" key="#Inspections" timestamp="1582664455067">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="312" y="92" key="#Inspections/0.0.1440.860@0.0.1440.860" timestamp="1582664455067" />
+    <state x="312" y="92" key="#Project_Structure" timestamp="1582572911365">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="312" y="92" key="#Project_Structure/0.0.1440.860@0.0.1440.860" timestamp="1582572911365" />
+    <state x="312" y="92" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582574072029">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="312" y="92" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.860@0.0.1440.860" timestamp="1582574072029" />
+    <state x="525" y="140" key="#com.intellij.ide.util.MemberChooser" timestamp="1582990177428">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="525" y="140" key="#com.intellij.ide.util.MemberChooser/0.0.1440.860@0.0.1440.860" timestamp="1582990177428" />
+    <state x="521" y="300" width="398" height="266" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1582742977611">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="521" y="300" width="398" height="266" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1440.860@0.0.1440.860" timestamp="1582742977611" />
+    <state x="500" y="189" key="FileChooserDialogImpl" timestamp="1582978055345">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="500" y="189" key="FileChooserDialogImpl/0.0.1440.860@0.0.1440.860" timestamp="1582978055345" />
+    <state width="1397" height="281" key="GridCell.Tab.0.bottom" timestamp="1582990713745">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="281" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1582990713745" />
+    <state width="1397" height="281" key="GridCell.Tab.0.center" timestamp="1582990713745">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="281" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1582990713745" />
+    <state width="1397" height="281" key="GridCell.Tab.0.left" timestamp="1582990713745">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="281" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1582990713745" />
+    <state width="1397" height="281" key="GridCell.Tab.0.right" timestamp="1582990713745">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="281" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1582990713745" />
+    <state width="1397" height="376" key="GridCell.Tab.1.bottom" timestamp="1582983077886">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="376" key="GridCell.Tab.1.bottom/0.0.1440.860@0.0.1440.860" timestamp="1582983077886" />
+    <state width="1397" height="376" key="GridCell.Tab.1.center" timestamp="1582983077885">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="376" key="GridCell.Tab.1.center/0.0.1440.860@0.0.1440.860" timestamp="1582983077885" />
+    <state width="1397" height="376" key="GridCell.Tab.1.left" timestamp="1582983077885">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="376" key="GridCell.Tab.1.left/0.0.1440.860@0.0.1440.860" timestamp="1582983077885" />
+    <state width="1397" height="376" key="GridCell.Tab.1.right" timestamp="1582983077885">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="376" key="GridCell.Tab.1.right/0.0.1440.860@0.0.1440.860" timestamp="1582983077885" />
+    <state x="223" y="76" key="SettingsEditor" timestamp="1582984936221">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="223" y="76" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1582984936221" />
+    <state x="623" y="324" width="319" height="222" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1582987790699">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="623" y="324" width="319" height="222" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.0.1440.860@0.0.1440.860" timestamp="1582987790699" />
+    <state x="428" y="259" key="com.intellij.ide.util.TipDialog" timestamp="1582985252772">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="428" y="259" key="com.intellij.ide.util.TipDialog/0.0.1440.860@0.0.1440.860" timestamp="1582985252772" />
+    <state x="376" y="195" key="run.anything.popup" timestamp="1582742456246">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="376" y="195" key="run.anything.popup/0.0.1440.860@0.0.1440.860" timestamp="1582742456246" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hiber/dao/CarDaoImpl.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hiber/dao/CarDaoImpl.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
